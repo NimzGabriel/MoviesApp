@@ -8,7 +8,7 @@ After you cloned or downloaded the repository:
 
 First Run
 
-### npm install
+### `npm install`
 
 Then
 

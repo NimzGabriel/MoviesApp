@@ -4,7 +4,7 @@ This project was created with [Create React App](https://github.com/facebook/cre
 
 ## Available Scripts
 
-After you cloned or downloaded the repository:
+After you cloned the repository or downloaded it:
 
 First Run
 
